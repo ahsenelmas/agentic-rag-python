@@ -22,8 +22,7 @@ A minimal, production‑ready RAG service built with **Flask**, **PostgreSQL + p
 
 ---
 
-* **Medium article:** *\[link here]*
-* **Demo repo branch:** `main`
+* **Medium article:** *https://medium.com/@ahsenelmas1/from-n8n-to-python-building-an-agentic-rag-service-with-flask-postgres-pgvector-and-google-drive-b07bace97b19*
 
 ---
 
