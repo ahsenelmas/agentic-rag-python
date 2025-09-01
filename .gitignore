@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.venv*/
+
+# secrets
+.env
+.env.*
+google-credentials.json
+**/google-credentials.json
+
+# system/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.*
+google-credentials.json
+**/google-credentials.json

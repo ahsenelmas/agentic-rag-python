@@ -1,0 +1,10 @@
+Flask>=2.3
+flask_cors
+python-dotenv
+requests
+psycopg2-binary
+google-api-python-client
+google-auth
+google-auth-oauthlib
+pandas
+PyPDF2
