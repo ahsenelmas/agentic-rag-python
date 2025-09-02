@@ -78,7 +78,7 @@ python -m scripts.db_checks  # sanity check
 python app.py
 ```
 
-### Quick test
+### Quick test part
 
 **PowerShell one‑liner:**
 
