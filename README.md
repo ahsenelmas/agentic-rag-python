@@ -59,6 +59,12 @@ pip install -r requirements.txt
 
 Use the [template](#env-template) below.
 
+or copy the sample to `.env`
+
+```bash
+cp .env.sample .env
+``` 
+
 ### 3) Initialize DB schema (tables + `match_documents`)
 
 ```bash
