@@ -7,7 +7,6 @@ __pycache__/
 
 # secrets
 .env
-.env.*
 google-credentials.json
 **/google-credentials.json
 
@@ -17,6 +16,5 @@ Thumbs.db
 .vscode/
 .idea/
 .env
-.env.*
 google-credentials.json
 **/google-credentials.json
