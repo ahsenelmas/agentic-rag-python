@@ -19,5 +19,6 @@ Thumbs.db
 .idea/
 .env
 .env.*
+!.env.sample
 google-credentials.json
 **/google-credentials.json
