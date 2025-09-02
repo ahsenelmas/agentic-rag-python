@@ -8,6 +8,7 @@ __pycache__/
 # secrets
 .env
 .env.*
+!.env.sample
 google-credentials.json
 **/google-credentials.json
 
